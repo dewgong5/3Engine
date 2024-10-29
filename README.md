@@ -3,14 +3,9 @@
 A 3D C++ Game Engine with ray-casting (shading of walls and floor), basic players controls, and collission detection!
 
 ## Demo
+https://github.com/user-attachments/assets/f8b8dc43-2d62-4770-b44b-2edb6c41edfe
 
-https://github.com/user-attachments/assets/5454474e-b684-4874-8614-bd46f4535b4c
-
-https://github.com/user-attachments/assets/d4f57f65-b1c0-44f0-8a5d-057ff210f02d
-
-
-
-
+https://github.com/user-attachments/assets/06261f72-a64c-4d42-a5e9-12c963b8ac14
 
 ## Features
 
