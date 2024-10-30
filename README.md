@@ -1,6 +1,6 @@
 # Introducing 3Engine🤖 (a Simple yet Powerful 3D Game Engine)
 
-A 3D C++ Game Engine with ray-casting (shading of walls and floor), basic players controls, and collission detection!
+A 3D C++ Game Engine with ray-casting (shading of walls and floor), basic players controls, and collission detection! This project is inspired by early 3D FPS game utilizing 2D images to simulate 3D Graphics!
 
 ## 🐧Demo
 https://github.com/user-attachments/assets/f8b8dc43-2d62-4770-b44b-2edb6c41edfe
